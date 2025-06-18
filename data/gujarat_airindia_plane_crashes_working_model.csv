@@ -1,0 +1,251 @@
+Date,Location,Aircraft_Type,Airline,Cause,Weather,Flight_Phase,Fatalities,Injuries,Is_Fatal,Year,Month
+2019-05-29,Vadodara,Boeing 737,SpiceJet,Pilot Error,Cloudy,Landing,4,1,1,2019,5
+2014-03-18,Kutch,ATR 72,Go First,Air Traffic Miscommunication,Stormy,Cruise,1,0,1,2014,3
+2013-11-29,Ahmedabad,Bombardier Q400,Vistara,Weather Conditions,Rainy,Climb,3,1,1,2013,11
+2022-11-03,Vadodara,Airbus A320,Air India,Bird Strike,Clear,Climb,3,1,1,2022,11
+2010-02-10,Rajkot,Boeing 737,Go First,Air Traffic Miscommunication,Clear,Descent,1,2,1,2010,2
+2024-04-26,Kutch,Bombardier Q400,SpiceJet,Bird Strike,Foggy,Takeoff,2,3,1,2024,4
+2005-11-18,Rajkot,Airbus A320,Go First,Weather Conditions,Stormy,Climb,1,2,1,2005,11
+2005-07-16,Rajkot,Airbus A320,Air India,Pilot Error,Clear,Climb,1,2,1,2005,7
+2013-12-10,Bhavnagar,Boeing 737,IndiGo,Mechanical Failure,Clear,Climb,2,3,1,2013,12
+2007-08-20,Ahmedabad,ATR 72,Go First,Bird Strike,Rainy,Takeoff,2,2,1,2007,8
+2007-07-10,Bhavnagar,Cessna 208,Go First,Pilot Error,Foggy,Climb,1,4,1,2007,7
+2003-05-17,Ahmedabad,ATR 72,Go First,Weather Conditions,Rainy,Cruise,0,4,0,2003,5
+2000-02-17,Bhavnagar,ATR 72,Vistara,Fuel Exhaustion,Cloudy,Climb,4,1,1,2000,2
+2015-12-13,Vadodara,Airbus A320,SpiceJet,Mechanical Failure,Clear,Landing,2,2,1,2015,12
+2018-01-08,Ahmedabad,ATR 72,Go First,Pilot Error,Stormy,Descent,1,1,1,2018,1
+2005-12-24,Rajkot,ATR 72,Vistara,Weather Conditions,Foggy,Landing,3,2,1,2005,12
+2010-02-08,Vadodara,Boeing 737,Go First,Fuel Exhaustion,Rainy,Descent,2,3,1,2010,2
+2018-03-14,Bhavnagar,ATR 72,Air India,Weather Conditions,Foggy,Descent,6,2,1,2018,3
+2023-02-26,Bhavnagar,ATR 72,Vistara,Weather Conditions,Rainy,Landing,1,4,1,2023,2
+2004-06-25,Kutch,Cessna 208,IndiGo,Bird Strike,Foggy,Cruise,1,3,1,2004,6
+2000-12-27,Surat,Boeing 737,Vistara,Air Traffic Miscommunication,Stormy,Cruise,2,4,1,2000,12
+2016-12-13,Ahmedabad,Airbus A320,Go First,Bird Strike,Stormy,Cruise,2,1,1,2016,12
+2018-06-23,Ahmedabad,Bombardier Q400,IndiGo,Weather Conditions,Stormy,Takeoff,1,1,1,2018,6
+2021-02-03,Vadodara,Cessna 208,SpiceJet,Air Traffic Miscommunication,Stormy,Descent,3,1,1,2021,2
+2006-12-18,Bhavnagar,Cessna 208,Air India,Mechanical Failure,Foggy,Landing,4,2,1,2006,12
+2000-02-02,Bhavnagar,Bombardier Q400,Air India,Weather Conditions,Cloudy,Climb,1,2,1,2000,2
+2005-11-21,Surat,Cessna 208,Go First,Pilot Error,Foggy,Takeoff,3,5,1,2005,11
+2004-07-17,Vadodara,ATR 72,Vistara,Bird Strike,Cloudy,Takeoff,1,5,1,2004,7
+2024-06-04,Kutch,Cessna 208,Air India,Bird Strike,Clear,Climb,4,2,1,2024,6
+2020-12-21,Kutch,Cessna 208,Vistara,Pilot Error,Cloudy,Cruise,4,2,1,2020,12
+2019-05-20,Rajkot,Cessna 208,SpiceJet,Air Traffic Miscommunication,Foggy,Climb,2,3,1,2019,5
+2009-05-21,Ahmedabad,Cessna 208,IndiGo,Weather Conditions,Foggy,Climb,0,2,0,2009,5
+2010-09-02,Rajkot,Airbus A320,Go First,Pilot Error,Rainy,Descent,0,1,0,2010,9
+2004-04-13,Rajkot,ATR 72,IndiGo,Bird Strike,Cloudy,Climb,2,2,1,2004,4
+2010-06-05,Rajkot,Bombardier Q400,Go First,Bird Strike,Foggy,Landing,2,5,1,2010,6
+2004-08-27,Ahmedabad,Bombardier Q400,IndiGo,Fuel Exhaustion,Cloudy,Descent,2,5,1,2004,8
+2003-07-04,Kutch,Cessna 208,Go First,Bird Strike,Clear,Climb,1,3,1,2003,7
+2016-12-09,Rajkot,Boeing 737,IndiGo,Mechanical Failure,Cloudy,Landing,5,4,1,2016,12
+2008-08-27,Ahmedabad,Bombardier Q400,Vistara,Fuel Exhaustion,Rainy,Cruise,4,1,1,2008,8
+2016-10-01,Vadodara,Boeing 737,Go First,Fuel Exhaustion,Clear,Descent,0,3,0,2016,10
+2015-12-26,Kutch,Airbus A320,Air India,Mechanical Failure,Clear,Takeoff,1,4,1,2015,12
+2010-12-27,Bhavnagar,Airbus A320,Go First,Fuel Exhaustion,Clear,Climb,2,3,1,2010,12
+2012-12-12,Surat,Airbus A320,SpiceJet,Air Traffic Miscommunication,Foggy,Takeoff,2,3,1,2012,12
+2001-12-02,Vadodara,Boeing 737,SpiceJet,Mechanical Failure,Stormy,Takeoff,0,3,0,2001,12
+2009-07-24,Vadodara,ATR 72,SpiceJet,Weather Conditions,Cloudy,Climb,2,3,1,2009,7
+2001-06-08,Ahmedabad,Cessna 208,SpiceJet,Bird Strike,Stormy,Descent,2,5,1,2001,6
+2024-05-31,Bhavnagar,Airbus A320,Go First,Pilot Error,Rainy,Descent,3,3,1,2024,5
+2002-03-19,Surat,Cessna 208,Vistara,Mechanical Failure,Stormy,Landing,1,5,1,2002,3
+2017-09-09,Rajkot,Bombardier Q400,Air India,Weather Conditions,Clear,Climb,0,2,0,2017,9
+2015-01-01,Bhavnagar,Bombardier Q400,SpiceJet,Bird Strike,Cloudy,Landing,2,2,1,2015,1
+2015-05-08,Kutch,ATR 72,Air India,Bird Strike,Stormy,Climb,2,5,1,2015,5
+2020-05-27,Vadodara,Bombardier Q400,Air India,Fuel Exhaustion,Cloudy,Landing,1,3,1,2020,5
+2018-04-30,Kutch,ATR 72,Air India,Air Traffic Miscommunication,Cloudy,Climb,3,3,1,2018,4
+2007-01-04,Kutch,Bombardier Q400,Air India,Weather Conditions,Rainy,Takeoff,2,3,1,2007,1
+2022-03-24,Ahmedabad,Boeing 737,IndiGo,Weather Conditions,Clear,Descent,3,6,1,2022,3
+2020-03-04,Kutch,ATR 72,Vistara,Weather Conditions,Clear,Descent,2,6,1,2020,3
+2019-10-30,Ahmedabad,Airbus A320,IndiGo,Fuel Exhaustion,Stormy,Cruise,0,3,0,2019,10
+2016-07-17,Ahmedabad,Bombardier Q400,Air India,Air Traffic Miscommunication,Foggy,Landing,2,5,1,2016,7
+2020-05-29,Bhavnagar,Bombardier Q400,Vistara,Weather Conditions,Stormy,Cruise,1,2,1,2020,5
+2002-12-01,Bhavnagar,Cessna 208,IndiGo,Air Traffic Miscommunication,Foggy,Descent,1,4,1,2002,12
+2000-04-27,Bhavnagar,Cessna 208,IndiGo,Fuel Exhaustion,Rainy,Descent,3,3,1,2000,4
+2017-06-24,Vadodara,ATR 72,SpiceJet,Pilot Error,Clear,Landing,1,2,1,2017,6
+2000-07-28,Ahmedabad,Bombardier Q400,Go First,Fuel Exhaustion,Cloudy,Descent,4,4,1,2000,7
+2013-04-21,Vadodara,Cessna 208,Vistara,Bird Strike,Foggy,Descent,2,1,1,2013,4
+2001-06-01,Ahmedabad,Boeing 737,SpiceJet,Bird Strike,Foggy,Climb,0,3,0,2001,6
+2007-03-08,Vadodara,Boeing 737,Air India,Air Traffic Miscommunication,Stormy,Takeoff,4,1,1,2007,3
+2019-11-16,Vadodara,Airbus A320,Air India,Weather Conditions,Cloudy,Landing,5,3,1,2019,11
+2023-02-25,Vadodara,Cessna 208,IndiGo,Weather Conditions,Clear,Takeoff,2,3,1,2023,2
+2019-10-23,Surat,Bombardier Q400,IndiGo,Pilot Error,Foggy,Takeoff,0,1,0,2019,10
+2018-11-06,Surat,Airbus A320,SpiceJet,Air Traffic Miscommunication,Rainy,Takeoff,0,2,0,2018,11
+2012-10-25,Kutch,Boeing 737,Go First,Air Traffic Miscommunication,Foggy,Landing,1,4,1,2012,10
+2003-11-01,Bhavnagar,Boeing 737,IndiGo,Mechanical Failure,Stormy,Descent,1,2,1,2003,11
+2018-02-08,Vadodara,ATR 72,SpiceJet,Weather Conditions,Stormy,Takeoff,2,5,1,2018,2
+2004-02-28,Rajkot,Airbus A320,IndiGo,Weather Conditions,Cloudy,Cruise,2,0,1,2004,2
+2020-06-11,Kutch,ATR 72,Vistara,Mechanical Failure,Clear,Landing,5,3,1,2020,6
+2005-06-26,Surat,Bombardier Q400,SpiceJet,Pilot Error,Clear,Climb,1,2,1,2005,6
+2013-06-02,Vadodara,Bombardier Q400,Vistara,Bird Strike,Cloudy,Takeoff,2,0,1,2013,6
+2014-08-12,Bhavnagar,Boeing 737,IndiGo,Pilot Error,Rainy,Landing,4,2,1,2014,8
+2020-12-18,Bhavnagar,Bombardier Q400,SpiceJet,Air Traffic Miscommunication,Rainy,Takeoff,1,2,1,2020,12
+2014-09-26,Surat,ATR 72,Go First,Weather Conditions,Clear,Descent,2,4,1,2014,9
+2012-08-13,Bhavnagar,Boeing 737,SpiceJet,Bird Strike,Foggy,Landing,1,2,1,2012,8
+2011-07-23,Surat,ATR 72,SpiceJet,Weather Conditions,Rainy,Descent,4,1,1,2011,7
+2000-04-03,Bhavnagar,Bombardier Q400,Air India,Mechanical Failure,Clear,Landing,5,1,1,2000,4
+2001-06-01,Surat,Cessna 208,IndiGo,Bird Strike,Clear,Climb,2,0,1,2001,6
+2016-03-13,Vadodara,Cessna 208,IndiGo,Air Traffic Miscommunication,Clear,Landing,1,2,1,2016,3
+2021-02-28,Surat,Bombardier Q400,Vistara,Air Traffic Miscommunication,Rainy,Climb,3,4,1,2021,2
+2012-07-01,Ahmedabad,Cessna 208,Air India,Pilot Error,Cloudy,Descent,2,3,1,2012,7
+2024-06-04,Vadodara,ATR 72,SpiceJet,Mechanical Failure,Rainy,Descent,5,5,1,2024,6
+2004-11-08,Rajkot,Bombardier Q400,IndiGo,Fuel Exhaustion,Cloudy,Cruise,5,5,1,2004,11
+2019-09-06,Bhavnagar,Airbus A320,IndiGo,Weather Conditions,Clear,Descent,5,3,1,2019,9
+2023-07-19,Rajkot,ATR 72,SpiceJet,Mechanical Failure,Foggy,Takeoff,1,4,1,2023,7
+2014-01-12,Bhavnagar,Cessna 208,Vistara,Bird Strike,Rainy,Climb,0,1,0,2014,1
+2006-09-09,Bhavnagar,Airbus A320,SpiceJet,Bird Strike,Clear,Climb,1,3,1,2006,9
+2020-04-28,Bhavnagar,Airbus A320,Air India,Air Traffic Miscommunication,Rainy,Takeoff,2,4,1,2020,4
+2009-10-31,Rajkot,Bombardier Q400,Go First,Bird Strike,Cloudy,Landing,1,4,1,2009,10
+2019-08-17,Kutch,Airbus A320,Go First,Mechanical Failure,Cloudy,Cruise,0,3,0,2019,8
+2016-08-03,Kutch,Bombardier Q400,Go First,Air Traffic Miscommunication,Clear,Descent,2,2,1,2016,8
+2001-02-08,Vadodara,Boeing 737,Vistara,Pilot Error,Cloudy,Cruise,2,2,1,2001,2
+2022-03-17,Vadodara,Airbus A320,Air India,Fuel Exhaustion,Clear,Descent,1,3,1,2022,3
+2019-01-28,Kutch,ATR 72,Go First,Bird Strike,Clear,Cruise,0,3,0,2019,1
+2001-07-03,Vadodara,ATR 72,IndiGo,Weather Conditions,Clear,Climb,3,4,1,2001,7
+2001-04-09,Bhavnagar,ATR 72,Vistara,Bird Strike,Foggy,Takeoff,3,0,1,2001,4
+2003-07-21,Ahmedabad,Cessna 208,IndiGo,Weather Conditions,Stormy,Landing,1,2,1,2003,7
+2021-05-10,Ahmedabad,Airbus A320,Vistara,Air Traffic Miscommunication,Clear,Takeoff,0,4,0,2021,5
+2006-09-29,Kutch,Bombardier Q400,Go First,Weather Conditions,Clear,Descent,0,2,0,2006,9
+2008-06-08,Surat,Cessna 208,SpiceJet,Weather Conditions,Rainy,Landing,4,4,1,2008,6
+2002-12-13,Surat,Airbus A320,IndiGo,Mechanical Failure,Stormy,Climb,1,3,1,2002,12
+2004-03-29,Rajkot,Boeing 737,Vistara,Bird Strike,Rainy,Cruise,3,2,1,2004,3
+2003-07-30,Surat,Cessna 208,SpiceJet,Pilot Error,Stormy,Climb,4,3,1,2003,7
+2003-02-19,Bhavnagar,Bombardier Q400,SpiceJet,Fuel Exhaustion,Clear,Descent,1,7,1,2003,2
+2011-04-05,Ahmedabad,Boeing 737,IndiGo,Fuel Exhaustion,Stormy,Landing,1,3,1,2011,4
+2010-12-26,Bhavnagar,ATR 72,IndiGo,Fuel Exhaustion,Cloudy,Cruise,0,5,0,2010,12
+2019-08-26,Ahmedabad,Boeing 737,Air India,Pilot Error,Stormy,Climb,0,8,0,2019,8
+2018-11-03,Surat,Boeing 737,Go First,Pilot Error,Clear,Takeoff,0,1,0,2018,11
+2016-11-16,Ahmedabad,Bombardier Q400,Go First,Pilot Error,Clear,Takeoff,3,2,1,2016,11
+2021-10-12,Bhavnagar,Cessna 208,Vistara,Air Traffic Miscommunication,Rainy,Takeoff,2,2,1,2021,10
+2004-10-02,Rajkot,Cessna 208,Vistara,Air Traffic Miscommunication,Clear,Descent,2,1,1,2004,10
+2020-11-22,Rajkot,Airbus A320,SpiceJet,Weather Conditions,Clear,Descent,1,3,1,2020,11
+2016-03-20,Surat,Boeing 737,IndiGo,Weather Conditions,Foggy,Takeoff,2,4,1,2016,3
+2003-06-01,Surat,Bombardier Q400,Vistara,Bird Strike,Foggy,Takeoff,2,1,1,2003,6
+2024-08-18,Bhavnagar,ATR 72,SpiceJet,Air Traffic Miscommunication,Foggy,Takeoff,0,7,0,2024,8
+2003-11-10,Bhavnagar,Boeing 737,Vistara,Mechanical Failure,Rainy,Landing,1,6,1,2003,11
+2019-05-12,Vadodara,Boeing 737,SpiceJet,Bird Strike,Stormy,Descent,3,2,1,2019,5
+2004-12-25,Bhavnagar,Cessna 208,Vistara,Mechanical Failure,Rainy,Landing,4,2,1,2004,12
+2006-02-15,Ahmedabad,ATR 72,IndiGo,Bird Strike,Stormy,Climb,3,1,1,2006,2
+2018-09-02,Ahmedabad,ATR 72,Vistara,Fuel Exhaustion,Cloudy,Cruise,0,0,0,2018,9
+2016-08-04,Rajkot,Boeing 737,SpiceJet,Fuel Exhaustion,Stormy,Cruise,0,4,0,2016,8
+2022-05-10,Surat,Bombardier Q400,IndiGo,Bird Strike,Stormy,Takeoff,0,3,0,2022,5
+2007-04-10,Ahmedabad,Cessna 208,Vistara,Mechanical Failure,Cloudy,Cruise,1,4,1,2007,4
+2002-10-31,Kutch,Cessna 208,SpiceJet,Pilot Error,Cloudy,Climb,2,5,1,2002,10
+2004-11-23,Bhavnagar,ATR 72,Vistara,Bird Strike,Cloudy,Takeoff,2,1,1,2004,11
+2006-05-24,Kutch,ATR 72,Vistara,Weather Conditions,Stormy,Landing,5,1,1,2006,5
+2008-02-04,Kutch,Boeing 737,Go First,Air Traffic Miscommunication,Foggy,Descent,1,2,1,2008,2
+2017-01-25,Vadodara,Cessna 208,SpiceJet,Bird Strike,Stormy,Cruise,3,6,1,2017,1
+2005-05-10,Bhavnagar,Airbus A320,SpiceJet,Air Traffic Miscommunication,Rainy,Cruise,4,3,1,2005,5
+2017-09-27,Vadodara,Bombardier Q400,Air India,Pilot Error,Foggy,Landing,2,3,1,2017,9
+2024-06-05,Vadodara,Boeing 737,Go First,Bird Strike,Stormy,Climb,3,2,1,2024,6
+2007-08-24,Surat,Bombardier Q400,Go First,Pilot Error,Cloudy,Descent,2,6,1,2007,8
+2010-10-18,Kutch,Boeing 737,IndiGo,Bird Strike,Stormy,Descent,1,1,1,2010,10
+2017-10-10,Surat,ATR 72,SpiceJet,Air Traffic Miscommunication,Foggy,Descent,4,3,1,2017,10
+2004-05-04,Ahmedabad,Airbus A320,SpiceJet,Bird Strike,Cloudy,Takeoff,1,1,1,2004,5
+2008-08-29,Bhavnagar,Boeing 737,Air India,Air Traffic Miscommunication,Rainy,Climb,3,2,1,2008,8
+2021-07-24,Rajkot,Cessna 208,Air India,Bird Strike,Clear,Climb,1,4,1,2021,7
+2015-03-05,Kutch,Airbus A320,Vistara,Fuel Exhaustion,Stormy,Cruise,1,5,1,2015,3
+2023-06-21,Rajkot,Cessna 208,IndiGo,Bird Strike,Foggy,Takeoff,3,8,1,2023,6
+2009-12-05,Vadodara,Cessna 208,Vistara,Fuel Exhaustion,Stormy,Descent,0,2,0,2009,12
+2021-02-12,Kutch,Airbus A320,Vistara,Air Traffic Miscommunication,Clear,Cruise,1,2,1,2021,2
+2019-09-24,Rajkot,Cessna 208,SpiceJet,Mechanical Failure,Clear,Climb,1,4,1,2019,9
+2005-05-30,Rajkot,Airbus A320,Air India,Mechanical Failure,Stormy,Descent,0,0,0,2005,5
+2010-10-21,Kutch,Airbus A320,Air India,Mechanical Failure,Cloudy,Cruise,1,4,1,2010,10
+2013-03-31,Rajkot,ATR 72,Air India,Pilot Error,Rainy,Cruise,2,3,1,2013,3
+2000-06-12,Surat,Airbus A320,Air India,Bird Strike,Cloudy,Climb,0,6,0,2000,6
+2005-03-10,Bhavnagar,Boeing 737,IndiGo,Mechanical Failure,Stormy,Landing,3,2,1,2005,3
+2019-09-02,Kutch,Bombardier Q400,IndiGo,Mechanical Failure,Clear,Landing,4,2,1,2019,9
+2013-06-07,Kutch,Cessna 208,IndiGo,Pilot Error,Stormy,Climb,4,3,1,2013,6
+2001-09-24,Kutch,Boeing 737,Go First,Bird Strike,Rainy,Descent,1,6,1,2001,9
+2019-11-14,Ahmedabad,ATR 72,Vistara,Fuel Exhaustion,Foggy,Descent,1,0,1,2019,11
+2022-08-23,Vadodara,Boeing 737,SpiceJet,Pilot Error,Rainy,Cruise,0,4,0,2022,8
+2012-04-05,Rajkot,ATR 72,IndiGo,Bird Strike,Foggy,Cruise,0,4,0,2012,4
+2017-03-02,Surat,Cessna 208,IndiGo,Air Traffic Miscommunication,Stormy,Takeoff,4,3,1,2017,3
+2009-10-03,Ahmedabad,Bombardier Q400,Go First,Air Traffic Miscommunication,Rainy,Descent,2,4,1,2009,10
+2011-12-04,Surat,Bombardier Q400,IndiGo,Pilot Error,Foggy,Landing,1,4,1,2011,12
+2018-02-15,Surat,Bombardier Q400,Go First,Fuel Exhaustion,Clear,Descent,1,4,1,2018,2
+2003-09-12,Rajkot,Airbus A320,IndiGo,Air Traffic Miscommunication,Stormy,Cruise,3,1,1,2003,9
+2002-09-01,Rajkot,Boeing 737,Air India,Bird Strike,Foggy,Climb,4,5,1,2002,9
+2016-05-15,Rajkot,Boeing 737,Vistara,Pilot Error,Clear,Takeoff,4,6,1,2016,5
+2018-06-01,Rajkot,Boeing 737,IndiGo,Mechanical Failure,Stormy,Takeoff,3,0,1,2018,6
+2000-03-06,Ahmedabad,Boeing 737,Go First,Bird Strike,Cloudy,Takeoff,2,4,1,2000,3
+2012-02-18,Bhavnagar,ATR 72,Go First,Air Traffic Miscommunication,Cloudy,Climb,2,2,1,2012,2
+2020-06-23,Ahmedabad,Bombardier Q400,IndiGo,Fuel Exhaustion,Foggy,Cruise,0,2,0,2020,6
+2003-06-28,Kutch,Bombardier Q400,Air India,Fuel Exhaustion,Rainy,Climb,4,3,1,2003,6
+2019-04-11,Surat,ATR 72,Air India,Pilot Error,Rainy,Descent,2,1,1,2019,4
+2005-11-17,Ahmedabad,Boeing 737,IndiGo,Mechanical Failure,Cloudy,Climb,5,1,1,2005,11
+2020-08-30,Ahmedabad,Cessna 208,Air India,Weather Conditions,Stormy,Landing,2,5,1,2020,8
+2020-01-16,Kutch,Boeing 737,Air India,Bird Strike,Rainy,Climb,0,0,0,2020,1
+2017-05-02,Rajkot,Boeing 737,Vistara,Bird Strike,Rainy,Cruise,3,2,1,2017,5
+2010-03-15,Vadodara,Bombardier Q400,Go First,Mechanical Failure,Cloudy,Descent,5,3,1,2010,3
+2005-01-30,Bhavnagar,Airbus A320,Vistara,Weather Conditions,Clear,Climb,1,2,1,2005,1
+2004-08-17,Surat,Boeing 737,Vistara,Fuel Exhaustion,Cloudy,Takeoff,0,2,0,2004,8
+2004-05-04,Rajkot,Boeing 737,Go First,Pilot Error,Rainy,Cruise,8,1,1,2004,5
+2007-08-21,Surat,ATR 72,IndiGo,Air Traffic Miscommunication,Foggy,Cruise,1,1,1,2007,8
+2012-10-05,Ahmedabad,Boeing 737,IndiGo,Mechanical Failure,Clear,Landing,2,3,1,2012,10
+2023-09-19,Vadodara,Boeing 737,Air India,Air Traffic Miscommunication,Foggy,Takeoff,3,1,1,2023,9
+2009-11-11,Ahmedabad,ATR 72,Go First,Pilot Error,Rainy,Descent,4,2,1,2009,11
+2013-03-09,Bhavnagar,Cessna 208,Air India,Fuel Exhaustion,Clear,Landing,3,0,1,2013,3
+2002-04-18,Kutch,Boeing 737,Air India,Fuel Exhaustion,Clear,Cruise,0,1,0,2002,4
+2006-08-25,Rajkot,Bombardier Q400,IndiGo,Air Traffic Miscommunication,Foggy,Descent,0,7,0,2006,8
+2011-06-27,Surat,Cessna 208,SpiceJet,Fuel Exhaustion,Foggy,Descent,3,6,1,2011,6
+2007-08-26,Kutch,Cessna 208,IndiGo,Fuel Exhaustion,Clear,Landing,1,1,1,2007,8
+2024-03-30,Surat,Airbus A320,Vistara,Fuel Exhaustion,Clear,Descent,2,1,1,2024,3
+2004-12-05,Kutch,Cessna 208,Vistara,Mechanical Failure,Rainy,Climb,3,4,1,2004,12
+2023-11-19,Vadodara,Airbus A320,Vistara,Mechanical Failure,Stormy,Cruise,5,5,1,2023,11
+2014-08-12,Kutch,Boeing 737,Go First,Weather Conditions,Rainy,Cruise,2,5,1,2014,8
+2020-01-26,Vadodara,Cessna 208,IndiGo,Mechanical Failure,Foggy,Descent,3,0,1,2020,1
+2013-12-27,Vadodara,Boeing 737,Air India,Fuel Exhaustion,Clear,Descent,2,5,1,2013,12
+2004-10-25,Bhavnagar,Bombardier Q400,Air India,Weather Conditions,Foggy,Climb,0,3,0,2004,10
+2005-07-08,Kutch,ATR 72,Vistara,Pilot Error,Stormy,Descent,0,7,0,2005,7
+2017-05-02,Bhavnagar,ATR 72,SpiceJet,Mechanical Failure,Foggy,Climb,1,3,1,2017,5
+2003-03-29,Rajkot,ATR 72,IndiGo,Bird Strike,Rainy,Landing,1,3,1,2003,3
+2015-06-14,Vadodara,Airbus A320,Vistara,Fuel Exhaustion,Clear,Climb,3,3,1,2015,6
+2014-12-12,In-Flight,Bombardier Q400,Air India,Hydraulic Failure,Clear,Climb,1,2,1,2014,12
+2017-11-01,In-Flight,Airbus A320,Air India,Cabin Pressure Loss,Rainy,Landing,2,1,1,2017,11
+2006-09-27,In-Flight,ATR 72,Air India,Bird Strike,Stormy,Climb,2,1,1,2006,9
+2017-06-22,In-Flight,ATR 72,Air India,Communication Breakdown,Stormy,Descent,0,2,0,2017,6
+2006-10-04,In-Flight,Bombardier Q400,Air India,Engine Failure,Stormy,Climb,1,1,1,2006,10
+2014-01-03,In-Flight,Boeing 737,Air India,Cabin Pressure Loss,Clear,Landing,2,1,1,2014,1
+2010-01-18,In-Flight,Bombardier Q400,Air India,Hydraulic Failure,Rainy,Cruise,1,0,1,2010,1
+2009-04-01,In-Flight,Bombardier Q400,Air India,Navigation Error,Rainy,Landing,1,3,1,2009,4
+2007-06-09,In-Flight,Cessna 208,Air India,Communication Breakdown,Clear,Takeoff,2,3,1,2007,6
+2017-02-17,In-Flight,ATR 72,Air India,Cabin Pressure Loss,Stormy,Climb,0,0,0,2017,2
+2012-06-03,In-Flight,Bombardier Q400,Air India,Navigation Error,Foggy,Takeoff,0,1,0,2012,6
+2019-11-08,In-Flight,Boeing 737,Air India,Cabin Pressure Loss,Clear,Descent,1,2,1,2019,11
+2012-04-25,In-Flight,Boeing 737,Air India,Hydraulic Failure,Rainy,Cruise,1,5,1,2012,4
+2021-12-14,In-Flight,Cessna 208,Air India,Communication Breakdown,Rainy,Descent,0,1,0,2021,12
+2006-05-01,In-Flight,Cessna 208,Air India,Communication Breakdown,Clear,Descent,2,3,1,2006,5
+2007-04-09,In-Flight,Bombardier Q400,Air India,Engine Failure,Clear,Landing,0,0,0,2007,4
+2005-06-24,In-Flight,Boeing 737,Air India,Cabin Pressure Loss,Rainy,Cruise,0,2,0,2005,6
+2010-02-15,In-Flight,Airbus A320,Air India,Engine Failure,Clear,Cruise,2,1,1,2010,2
+2009-08-24,In-Flight,Boeing 737,Air India,Cabin Pressure Loss,Stormy,Climb,3,1,1,2009,8
+2022-02-03,In-Flight,Cessna 208,Air India,Hydraulic Failure,Stormy,Cruise,0,2,0,2022,2
+2006-01-26,In-Flight,Boeing 737,Air India,Communication Breakdown,Clear,Descent,0,2,0,2006,1
+2012-12-29,In-Flight,Boeing 737,Air India,Engine Failure,Cloudy,Landing,0,1,0,2012,12
+2016-04-06,In-Flight,Cessna 208,Air India,Hydraulic Failure,Foggy,Takeoff,0,1,0,2016,4
+2019-07-17,In-Flight,Boeing 737,Air India,Cabin Pressure Loss,Rainy,Landing,2,1,1,2019,7
+2007-12-21,In-Flight,Cessna 208,Air India,Engine Failure,Cloudy,Descent,0,1,0,2007,12
+2014-08-20,In-Flight,ATR 72,Air India,Communication Breakdown,Rainy,Takeoff,2,3,1,2014,8
+2023-03-28,In-Flight,Bombardier Q400,Air India,Engine Failure,Stormy,Takeoff,1,2,1,2023,3
+2019-07-05,In-Flight,Cessna 208,Air India,Communication Breakdown,Clear,Cruise,0,5,0,2019,7
+2020-05-09,In-Flight,Cessna 208,Air India,Bird Strike,Cloudy,Landing,2,1,1,2020,5
+2014-02-28,In-Flight,Cessna 208,Air India,Hydraulic Failure,Foggy,Takeoff,3,3,1,2014,2
+2019-11-25,In-Flight,ATR 72,Air India,Communication Breakdown,Stormy,Climb,1,2,1,2019,11
+2012-01-05,In-Flight,Bombardier Q400,Air India,Navigation Error,Rainy,Cruise,1,3,1,2012,1
+2018-12-30,In-Flight,Bombardier Q400,Air India,Communication Breakdown,Stormy,Cruise,0,3,0,2018,12
+2016-05-27,In-Flight,Bombardier Q400,Air India,Communication Breakdown,Cloudy,Descent,0,3,0,2016,5
+2013-01-02,In-Flight,Boeing 737,Air India,Engine Failure,Clear,Climb,1,0,1,2013,1
+2014-09-06,In-Flight,Bombardier Q400,Air India,Bird Strike,Rainy,Takeoff,2,3,1,2014,9
+2010-07-16,In-Flight,Boeing 737,Air India,Cabin Pressure Loss,Clear,Descent,1,2,1,2010,7
+2017-05-12,In-Flight,Boeing 737,Air India,Engine Failure,Rainy,Descent,1,1,1,2017,5
+2011-02-12,In-Flight,Boeing 737,Air India,Navigation Error,Rainy,Cruise,4,2,1,2011,2
+2015-09-21,In-Flight,Airbus A320,Air India,Engine Failure,Foggy,Takeoff,2,3,1,2015,9
+2008-04-10,In-Flight,Cessna 208,Air India,Hydraulic Failure,Foggy,Landing,0,0,0,2008,4
+2006-12-12,In-Flight,ATR 72,Air India,Communication Breakdown,Foggy,Landing,3,2,1,2006,12
+2005-07-27,In-Flight,Cessna 208,Air India,Hydraulic Failure,Rainy,Descent,1,0,1,2005,7
+2011-02-28,In-Flight,Cessna 208,Air India,Engine Failure,Stormy,Takeoff,1,0,1,2011,2
+2007-09-14,In-Flight,Cessna 208,Air India,Cabin Pressure Loss,Clear,Takeoff,2,2,1,2007,9
+2018-02-07,In-Flight,ATR 72,Air India,Bird Strike,Stormy,Landing,2,1,1,2018,2
+2015-06-20,In-Flight,ATR 72,Air India,Hydraulic Failure,Cloudy,Descent,2,0,1,2015,6
+2008-05-25,In-Flight,Bombardier Q400,Air India,Bird Strike,Cloudy,Cruise,1,1,1,2008,5
+2015-08-16,In-Flight,Cessna 208,Air India,Engine Failure,Foggy,Cruise,0,2,0,2015,8
+2016-02-06,In-Flight,Cessna 208,Air India,Cabin Pressure Loss,Foggy,Cruise,3,3,1,2016,2
