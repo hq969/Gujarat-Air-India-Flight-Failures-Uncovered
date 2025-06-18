@@ -20,30 +20,22 @@ This end-to-end project includes:
 ## 📁 Project Structure
 Gujarat-Air-India-Flight-Failures-Uncovered/
 │
-
 ├── 📁 data/
-
-│ ├── combined_gujarat_airindia_plane_crashes.csv
-
-│ ├── gujarat_airindia_plane_crashes_working_model.csv
-
-│ └── year_wise_summary.csv
-
-│├── 📁 visuals/
-
-│ ├── crashes_per_year.png
-
-│ ├── fatalities_distribution.png
-
-│ └── crash_causes_distribution.png
-
-│├── 📁 notebooks/
-
-│ └── crash_analysis.ipynb
-
-│├── 📄 README.md
-
+│   ├── combined_gujarat_airindia_plane_crashes.csv
+│   ├── gujarat_airindia_plane_crashes_working_model.csv
+│   └── year_wise_summary.csv
+│
+├── 📁 visuals/
+│   ├── crashes_per_year.png
+│   ├── fatalities_distribution.png
+│   └── crash_causes_distribution.png
+│
+├── 📁 notebooks/
+│   └── crash_analysis.ipynb
+│
+├── 📄 README.md
 └── 📄 requirements.txt
+
 
 
 
