@@ -97,7 +97,9 @@ Gujarat-Air-India-Flight-Failures-Uncovered/
 ## 📬 Contact
 
 Built by Harsh Sonkar
+
 📧 [contact.harshsonkar@gmail.com]
+
 🔗 [LinkedIn Profile - www.linkedin.com/in/harsh-sonkar-232573250/ or GitHub Profile - https://github.com/hq969/ ]
 
 ## 🛫 Disclaimer
