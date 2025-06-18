@@ -39,7 +39,7 @@ Gujarat-Air-India-Flight-Failures-Uncovered/
 
 │├── 📁 notebooks/
 
-│ └── crash_analysis.ipynb
+│ └── Air_india_Ahmedabad_plane_crash.ipynb
 
 │├── 📄 README.md
 
